@@ -1,0 +1,2 @@
+# Bank-Customer-Churn-Analysis-Risk-Segmentation-Power-BI-
+Key highlights:  Built interactive dashboards using Power BI Analyzed customer churn patterns using credit score, age, geography, and balance Identified high-risk customer segments Created KPIs such as churn rate and customer segmentation  💡 Key Insight: Customers with low credit scores and zero balance accounts show higher churn probability.
