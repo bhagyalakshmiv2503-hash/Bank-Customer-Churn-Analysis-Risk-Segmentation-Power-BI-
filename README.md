@@ -1,40 +1,68 @@
 
-  # Bank Customer Churn Analysis using Power BI
+ # 📊 Bank Customer Churn Analysis (Power BI Project)
 
-  ## Business Problem
+## 📌 Overview
+This project analyzes customer churn behavior in a banking dataset using Power BI. The goal is to identify high-risk customers and improve retention strategies.
 
-Banks often struggle with customer attrition, leading to reduced revenue and customer lifetime value.
+---
 
-The objective of this project is to identify churn patterns, understand customer behavior, and provide actionable recommendations to improve retention.
-    
- ## Tools Used
+## 🎯 Business Problem
+Banks face revenue loss due to customer churn. This project identifies key factors influencing churn and provides actionable insights.
 
+---
+
+## 📊 KPIs
+- Churn Rate
+- Customer Balance
+- Credit Score Analysis
+- Geography-wise Churn
+- Age Group Analysis
+
+---
+
+## 📂 Dataset
+Source: Kaggle Bank Customer Churn Dataset
+
+Features:
+- Customer ID
+- Credit Score
+- Geography
+- Gender
+- Age
+- Balance
+- Salary
+- Exited (Target)
+
+---
+
+## 📈 Key Insights
+- Germany has highest churn rate
+- Low credit score customers are high-risk
+- Zero balance customers are more likely to leave
+- Middle-aged customers are more stable
+
+---
+
+## 💡 Recommendations
+- Target high-risk customers with retention campaigns
+- Improve onboarding experience
+- Introduce loyalty rewards
+- Monitor churn-prone segments
+
+---
+
+## 🖥️ Dashboard Preview
+(Add screenshots here)
+
+---
+
+## 🛠️ Tools Used
 - Power BI
+- Excel
 - Power Query
 - DAX
-- Excel
 
-- ## KPIs
+---
 
-- Churn Rate
-- Average Balance
-- Average Credit Score
-- Customer Segmentation
-- Geography-wise Churn
-
-- ## Key Insights
-
-1. Germany exhibits the highest churn rate.
-2. Customers with low credit scores are more likely to exit.
-3. Customers maintaining zero balances show increased churn risk.
-4. Mid-tenure customers demonstrate stronger retention.
-
-5. ## Recommendations
-
-- Implement targeted retention campaigns.
-- Introduce loyalty programs for high-value customers.
-- Improve engagement for low-balance accounts.
-- Monitor high-risk segments proactively.
-
-- ## Author
-- Bhagyalakshmi S
+## 👤 Author
+Aspiring Business Analyst
