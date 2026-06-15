@@ -20,9 +20,6 @@ Banks face revenue loss due to customer churn. This project identifies key facto
 
 ---
 
-## 📂 Dataset
-Source: Kaggle Bank Customer Churn Dataset
-
 Features:
 - Customer ID
 - Credit Score
@@ -52,7 +49,7 @@ Features:
 ---
 
 ## 🖥️ Dashboard Preview
-(Add screenshots here)
+<img width="1242" height="756" alt="Screenshot - dashboard power bi" src="https://github.com/user-attachments/assets/6bb36f27-08ea-41c3-977e-36d1f0e276ee" />
 
 ---
 
